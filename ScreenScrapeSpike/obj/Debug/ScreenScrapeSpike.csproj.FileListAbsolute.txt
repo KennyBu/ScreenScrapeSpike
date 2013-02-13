@@ -1,0 +1,12 @@
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\bin\Debug\ScreenScrapeSpike.exe.config
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\bin\Debug\ScreenScrapeSpike.exe
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\bin\Debug\ScreenScrapeSpike.pdb
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\bin\Debug\HtmlAgilityPack.dll
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\bin\Debug\HtmlAgilityPack.pdb
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\bin\Debug\HtmlAgilityPack.xml
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\obj\Debug\ScreenScrapeSpike.csprojResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\obj\Debug\ScreenScrapeSpike.exe
+c:\users\ken\documents\visual studio 2012\Projects\ScreenScrapeSpike\ScreenScrapeSpike\obj\Debug\ScreenScrapeSpike.pdb
+C:\Users\ken\Documents\GitHub\ScreenScrapeSpike\ScreenScrapeSpike\bin\Debug\ScreenScrapeSpike.exe.config
+C:\Users\ken\Documents\GitHub\ScreenScrapeSpike\ScreenScrapeSpike\obj\Debug\ScreenScrapeSpike.exe
+C:\Users\ken\Documents\GitHub\ScreenScrapeSpike\ScreenScrapeSpike\obj\Debug\ScreenScrapeSpike.pdb
